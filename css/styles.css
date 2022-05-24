@@ -1,0 +1,47 @@
+body {
+  background-color: #AD8B73;
+  text-align: center;
+  font-family: 'Courier New', monospace;
+
+}
+h1{
+  color: white;
+}
+h2 {
+  color: white;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+  background-color: #f9f8f8;
+  position: relative;
+  padding-top: 100px;
+
+}
+ .middle-container {
+
+   }
+ .bottom-container {
+
+ }
+ .pro{
+
+ }
+
+
+div {
+ background-color: #f9f8f8;
+ background: rgb(37, 36, 36);
+ background: rgba(51, 48, 48, 0.68)
+}
+#background-video {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
